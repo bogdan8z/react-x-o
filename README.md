@@ -73,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
 https://github.com/facebook/create-react-app
 https://reactjs.org/docs/getting-started.html
+https://dev.to/sujeshgathe/how-to-reactjs-4kl6
+https://create-react-app.dev/docs/getting-started/
+https://stackoverflow.com/questions/36795819/react-native-es-6-when-should-i-use-curly-braces-for-import/36796281#36796281
+https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16851138#overview
+https://reactjs.org/docs/thinking-in-react.html
+https://reactjs.org/docs/state-and-lifecycle.html
