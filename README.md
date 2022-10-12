@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -70,12 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Links
-https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
-https://github.com/facebook/create-react-app
-https://reactjs.org/docs/getting-started.html
-https://dev.to/sujeshgathe/how-to-reactjs-4kl6
-https://create-react-app.dev/docs/getting-started/
-https://stackoverflow.com/questions/36795819/react-native-es-6-when-should-i-use-curly-braces-for-import/36796281#36796281
-https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16851138#overview
-https://reactjs.org/docs/thinking-in-react.html
-https://reactjs.org/docs/state-and-lifecycle.html
+https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial<br />
+https://github.com/facebook/create-react-app<br />
+https://reactjs.org/docs/getting-started.html<br />
+https://dev.to/sujeshgathe/how-to-reactjs-4kl6<br />
+https://create-react-app.dev/docs/getting-started/<br />
+https://stackoverflow.com/questions/36795819/react-native-es-6-when-should-i-use-curly-braces-for-import/36796281#36796281<br />
+https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16851138#overview<br />
+https://reactjs.org/docs/thinking-in-react.html<br />
+https://reactjs.org/docs/state-and-lifecycle.html<br />
